@@ -7,6 +7,8 @@ describe("titleCase", function() {
       expect(titleCase("the cat")).to.equal("The Cat");
   })
 
-
+it("capitalizes the first letter of the first word but doesn't capitlize certain words that are less than five leters within", function(){
+    expect(titleCase("the a cat in the hat")).to.equal("The a Cat in the Hat");
+})
 
 });
