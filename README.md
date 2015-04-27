@@ -1,17 +1,27 @@
-###Developers
-Kyle Giard-Chase && David Eliason
+##Developers
+Kyle Giard-Chase & David Eliason
 
-###Date
-March 27, 2015
+##Date
+March 29 2015
 
-###Description
-An app for a user to input a phrase and to return the title case version of that phrase.
+##Description
+An app that allows a user to input a phrase and returns the title cased version of that phrase.
 
-You will need to install <a href="http://chaijs.com/" target="_blank">Chai</a>, <a href="http://mochajs.org/" target="_blank">Mocha</a>, and <a href="https://jquery.com/" target="_blank">jQuery</a> to use this app.
+##Technologies Used
+Javascript <br>
+<a href='https://jquery.com/download/'>jQuery-1.11.2</a> <br>
+<a href='http://mochajs.org/'>Mocha</a> <br>
+<a href='http://chaijs.com/'>Chai</a><br><br>
+
+##Use and Editing
+To use the app, <br>
+1. Clone the repository. `git clone https://github.com/k-giardchase/titlecase_js.git`<br>
+2. Change directories into the folder `titlecase_js`<br>
+3. Open titlecase.html in your web browser.
+<br>
 
 
-
-###Copyright (c) 2015 Kyle Giard-Chase && David Eliason
+##Copyright (c) 2015 Kyle Giard-Chase & David Eliason
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
